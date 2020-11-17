@@ -279,5 +279,5 @@ Type="Control Panel"
 Number=0
 
 [Desktop]
-Screen="1920 1080"
+Screen="3000 1920"
 Window="Win_1"
